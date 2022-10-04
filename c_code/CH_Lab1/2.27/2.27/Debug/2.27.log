@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main227.c
+  LINK : 最後的累加連結找不到或未建置 .\Debug\2.27.exe，正在執行完整連結
+  2.27.vcxproj -> C:\c_code\CH_Lab1\2.27\2.27\Debug\2.27.exe
